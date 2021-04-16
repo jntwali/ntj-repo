@@ -1,2 +1,2 @@
 # ntj-repo
-for training 
+this repo was created for training purposes. Contributions are most welcome. 
