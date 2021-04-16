@@ -1,0 +1,2 @@
+# ntj-repo
+for training 
