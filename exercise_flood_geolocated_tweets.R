@@ -1,4 +1,5 @@
-##########################
+# this exercise was adapted from the earth analytics course on use R to analyze geo-data
+#########################
 
 #load twitter library-the retweet is recommended now over tweetr
 library(rjson)
