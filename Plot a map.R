@@ -1,3 +1,6 @@
+# This project creates a map of Musanze District (Rwanda), highlighting Cyuve sector and an inset map of Rwanda showing where Musanze is located. 
+# verything is done with base R graphics and the sf package.
+#############################################################################
 # set working directory
 setwd("~/Maps")
 # Install once (if needed)
