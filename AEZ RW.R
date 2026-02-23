@@ -1,4 +1,7 @@
-rwandaBound <- readOGR(dsn = '~/R/Data files/Shapefiles/aez', 'acz_geo')
+# install.packages(c("sf", "dplyr", "ggplot2", "ggspatial", "prettymapr"))
+library(sf)
+
+rwandaBound <- st_read('~/R/Data files/Shapefiles/aez/aez.shp')
 
 # convert to dataframe
 
